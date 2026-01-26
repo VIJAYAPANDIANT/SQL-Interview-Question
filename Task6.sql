@@ -1,4 +1,4 @@
---1️-- Difference between DELETE and TRUNCATE?
+-- 1️-- Difference between DELETE and TRUNCATE?
 DELETE	TRUNCATE
 Removes selected rows	Removes all rows
 WHERE clause allowed	WHERE not allowed
